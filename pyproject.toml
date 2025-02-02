@@ -57,7 +57,7 @@ dependencies = [
     "scikit-learn>=1.1",
     "statsmodels>=0.13",
     "patsy!=1.0.0", # https://github.com/pydata/patsy/issues/215
-    "networkx>=2.7",
+    "networkx>=2.6.2",
     "natsort",
     "joblib",
     "numba>=0.56",
